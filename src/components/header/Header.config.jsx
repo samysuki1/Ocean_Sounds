@@ -15,7 +15,7 @@ export const HEADER_CONFIG = {
     },
     {
       path: "/hobbies",
-      text: "Comunidades",
+      text: "Comunidade",
     },
   ],
 };
