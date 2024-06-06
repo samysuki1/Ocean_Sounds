@@ -1,7 +1,7 @@
 export const EXPERIENCE_CONFIG = {
   TITLE: "Aplicativo de Conservação Marinha",
   DATA: {
-    COMPANY: "Plataforma de treinamento multimódulo para os interessados ​​em ciências marinhas, técnicas científicas, habilidades aquáticas e em embarcações, certificação de mergulho e participar diretamente da pesquisa, se envolvendo com escolas e organizações locais e concluem um projeto final como parte do programa. Depois de se formarem no programa, os bolsistas permanecem envolvidos como mentores, facilitadores de sessões e líderes comunitários.",
+    COMPANY: "Plataforma de treinamento multimódulo para os interessados ​​em ciências marinhas e suas técnicas, habilidades aquáticas e embarcações, certificação de mergulho sustentável e participar diretamente nas pesquisas, se envolvendo com escolas e organizações parceiras, mesmo depois de se formarem os bolsistas permanecerão envolvidos como mentores, facilitadores de sessões e líderes comunitários.",
     ROLE: "",
     DESCRIPTION: {
       TITLE: "",
